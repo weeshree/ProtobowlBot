@@ -1,5 +1,5 @@
 # ProtobowlBot
-A variety of protobowl bots, some using ML and some not.
+A variety of protobowl bots, some using ML and some not. Part of Advanced NLP (6.864) course's final project.
 
 Dataset scraped from protobowl.com using Selenium and BeautifulSoup4.
 
